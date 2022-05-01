@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/trinhnguyenhuu/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="https://www.facebook.com/trinh.nguyenhuu.9678" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/huutrinh1310" alt="Github">
