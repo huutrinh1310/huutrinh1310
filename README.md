@@ -25,16 +25,14 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/reactjs.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/netbeans-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="https://img.icons8.com/officel/344/react.png"/>
+  <img src="https://img.icons8.com/windows/344/netbeans.png"/>
+  <img src="https://img.icons8.com/color/344/spring-logo.png"/>
+
 </p>
 
 # Certificates:
@@ -50,10 +48,22 @@
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/RVQGWTQK4SWZ">
-    <img alt="Computer Communications Specialization" title="Computer Communications Specialization" src="certificates/Computer-Communications-Specialization.png" width="300px" />
+    <img alt="Computer Communications Specialization" title="Computer Communications Specialization" src="./Computer-Communications-Specialization.png" width="300px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E">
-    <img alt="Audio Classification with TensorFlow" title="Audio Classification with TensorFlow" src="certificates/Coursera%20MBSDFCKQ9X8E.png" width="300px" />
+    <img alt="ITE" title="CertNexus Certified Ethical Emerging Technologist" src="./ite.png" width="300px" />
+</p>
+<p align="center">
+	</a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/3MLXWCRXUYMM">
+    <img alt="SWE" title="Software Development Lifecycle" src="./swe.png" width="300px" />
+  </a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/4LZGC4LPZPM3">
+    <img alt="WDU" title="User Experience Research and Design" src="./wdu.png" width="300px" />
+  </a>
+ </a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/G4LYH3SHNWTA">
+    <img alt="WED" title="Web Design for Everybody: Basics of Web Development & Coding" src="./wdu.png" width="300px" />
   </a>
 </p>
 
