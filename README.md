@@ -29,9 +29,9 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/officel/344/react.png"/>
-  <img src="https://img.icons8.com/windows/344/netbeans.png"/>
-  <img src="https://img.icons8.com/color/344/spring-logo.png"/>
+  <img src="https://img.icons8.com/officel/48/react.png"/>
+  <img src="https://img.icons8.com/windows/48/netbeans.png"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png"/>
 
 </p>
 
@@ -59,11 +59,11 @@
     <img alt="SWE" title="Software Development Lifecycle" src="./swe.png" width="300px" />
   </a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/4LZGC4LPZPM3">
-    <img alt="WDU" title="User Experience Research and Design" src="./wdu.png" width="300px" />
+    <img alt="WDU" title="User Experience Research and Design" src="./WDU.png" width="300px" />
   </a>
  </a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/G4LYH3SHNWTA">
-    <img alt="WED" title="Web Design for Everybody: Basics of Web Development & Coding" src="./wdu.png" width="300px" />
+    <img alt="WED" title="Web Design for Everybody: Basics of Web Development & Coding" src="./web-certi.png" width="300px" />
   </a>
 </p>
 
