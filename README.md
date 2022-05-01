@@ -47,14 +47,14 @@
 <p align="center">
 	</a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/3MLXWCRXUYMM">
-    <img alt="SWE" title="Software Development Lifecycle" src="./SWE.png" width="300px" />
+    <img alt="SWE" title="Software Development Lifecycle" src="./SWE.png" width="200px" />
   </a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/4LZGC4LPZPM3">
-    <img alt="WDU" title="User Experience Research and Design" src="./WDU.png" width="300px" />
+    <img alt="WDU" title="User Experience Research and Design" src="./WDU.png" width="200px" />
   </a>
  </a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/G4LYH3SHNWTA">
-    <img alt="WED" title="Web Design for Everybody: Basics of Web Development & Coding" src="./web-certi.png" width="300px" />
+    <img alt="WED" title="Web Design for Everybody: Basics of Web Development & Coding" src="./web-certi.png" width="200px" />
   </a>
 </p>
 
